@@ -1,0 +1,2 @@
+requests[socks]>=2.31
+stem>=1.8
